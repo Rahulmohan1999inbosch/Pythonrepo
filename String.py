@@ -36,6 +36,7 @@ print(name.isdigit())#checks if only digit returns true
 print(name.isspace()) #returns true if space is present
 print(name.istitle())# if the string is not capitalize returns true else false
 print(name.swapcase()) #swaps upper to lower and vice cersa
+pr
 
 
 
