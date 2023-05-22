@@ -9,8 +9,7 @@ for i in range(1,11):
 
 # Example for continue statement
 for i in range(12):
-    if i==5:                   # In this example when the value of the i reaches 5 the loop is skipped
-        
+    if i==5:                   # In this example when the value of the i reaches 5 the loop is skippped
         continue
     print('value of i is',i)
   
