@@ -48,8 +48,10 @@ extra=[100,200,300]
 l1.extend(extra)  # extra list gets combined with l1 list
 
 # You can create a new list by combining two lists
-k=extra+l1
-print(k)
+k=extra+l1   
+print(k)#[100, 200, 300, 0, 1, 2, 199, 3, 4, 5, 6, 7, 19, 100, 200, 300]
+
+
 
 
 

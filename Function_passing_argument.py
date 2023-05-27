@@ -18,9 +18,9 @@ def sum(*numbers):     # it takes variale length argument
 sum(1,2,3,4,5)
 
 
-def numdict(**numbers):
-    print(numbers)
+def numdict(**numbers):        # here ** implies it can take key value pair as argument and stores as dictionary
+    print(numbers)             # the output look something like this for numbers
+                               #{'Rahul': 12, 'Sagar': 69}
 
-numdict(Rahul=12,Sagar=69)
- 
-
+numdict(Rahul=12,Sagar=69)      # while passing the argument pass it as key and value pair 
+                       
