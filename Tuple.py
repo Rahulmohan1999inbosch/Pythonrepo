@@ -27,7 +27,9 @@ tuple2 = (1, 2, 3)
 tuple3 = tuple1 + tuple2
 print(tuple3)   #('a', 'b', 'c', 1, 2, 3)
 
-
+#---------------------------------------------------------
+# Tuple methods to apply methods on table you should first copy to list and then change the tuple
+# but some methods like count ,index etc can stil work on tuple since we are not changing the existing tuple
 
 
 
