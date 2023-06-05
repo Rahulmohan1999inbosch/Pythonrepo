@@ -84,7 +84,11 @@ del ufc
 
 # clear all the elements in a set 
 wwe.clear()
-print(wwe)
+print(wwe) #set() clears all the element in the set
+
+# check a element exist use 'in' key word which is similar to list and tuple
+
+
 
 
 
