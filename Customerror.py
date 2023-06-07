@@ -10,3 +10,7 @@ if name!='Rashmi':
     raise ValueError('Only Rashmi is eligible Rahul heart')
 else:
     print("Rashmi has eneterd Rahul's heart congratualations")
+
+
+#You can google erros in python lets go and explore erros 
+#like memory error, key error, class error
